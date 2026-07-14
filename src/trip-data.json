@@ -1,0 +1,1137 @@
+{
+  "items": [
+    {
+      "id": "fl-in",
+      "name": "Flight to Anchorage (ANC)",
+      "date": "2026-08-09",
+      "start": "2:05 pm",
+      "end": "11:32 pm",
+      "location": "Ted Stevens Anchorage Intl",
+      "area": "Anchorage",
+      "category": "Flight",
+      "budgetCat": "Flights",
+      "status": "Need to Book",
+      "priority": "Must Do",
+      "decision": "Keep",
+      "cost": 382,
+      "placeholder": false,
+      "paid": false,
+      "link": "",
+      "conf": "",
+      "cancelBy": "",
+      "weather": false,
+      "intensity": "Low",
+      "routeFit": "High",
+      "notes": "Lands 10:32 PM. Keep the night simple — placeholder fare, update with real total."
+    },
+    {
+      "id": "fl-out",
+      "name": "Flight Anchorage (ANC) → home",
+      "date": "2026-08-16",
+      "start": "06:15",
+      "end": "",
+      "location": "Ted Stevens Anchorage Intl",
+      "area": "Anchorage",
+      "category": "Flight",
+      "budgetCat": "Flights",
+      "status": "Need to Book",
+      "priority": "Must Do",
+      "decision": "Keep",
+      "cost": 205,
+      "paid": false,
+      "link": "",
+      "conf": "",
+      "cancelBy": "",
+      "weather": false,
+      "intensity": "Low",
+      "routeFit": "High",
+      "notes": "6:15 AM departure — leave hotel by ~4:15 AM. Cost included in round-trip fare above.",
+      "placeholder": false
+    },
+    {
+      "id": "car",
+      "name": "Rental car —  compact SUV (Hyundai Kona AWD)",
+      "date": "2026-08-09",
+      "start": "23:00",
+      "end": "",
+      "location": "ANC airport rental center",
+      "area": "",
+      "category": "Admin",
+      "budgetCat": "Rental car",
+      "status": "Need to Book",
+      "priority": "Must Do",
+      "decision": "Keep",
+      "cost": 1089,
+      "placeholder": false,
+      "paid": false,
+      "link": "chase",
+      "conf": "",
+      "cancelBy": "",
+      "weather": false,
+      "intensity": "Low",
+      "routeFit": "High",
+      "board": {
+        "duration": "7 days",
+        "competes": "Tours-from-Anchorage packages",
+        "reason": "Whole route depends on having our own car"
+      },
+      "notes": "Confirm counter is open at 10:32 PM arrival; otherwise pick up Monday morning and shuttle to hotel. ~$800 placeholder for 7 days."
+    },
+    {
+      "id": "lg-0809",
+      "name": "Americas Best Value Inn & Suites Anchorage Airport",
+      "date": "2026-08-09",
+      "start": "23:15",
+      "end": "",
+      "location": "Near ANC airport",
+      "area": "Anchorage",
+      "category": "Lodging",
+      "budgetCat": "Lodging",
+      "status": "Need to Book",
+      "priority": "Must Do",
+      "decision": "Keep",
+      "cost": 196,
+      "placeholder": false,
+      "paid": false,
+      "link": "chase",
+      "conf": "",
+      "cancelBy": "",
+      "weather": false,
+      "intensity": "Low",
+      "routeFit": "High",
+      "board": {
+        "duration": "1 night",
+        "competes": "Downtown Anchorage hotels",
+        "reason": "10:32 PM arrival — closest bed wins"
+      },
+      "notes": "Free airport shuttle preferred in case the rental counter is closed."
+    },
+    {
+      "id": "lg-0810",
+      "name": "Matanuska River Park- Primitive Site",
+      "date": "2026-08-10",
+      "start": "",
+      "end": "",
+      "location": "Palmer or Wasilla",
+      "area": "Mat-Su Valley",
+      "category": "Lodging",
+      "budgetCat": "Lodging",
+      "status": "Need to Book",
+      "priority": "Must Do",
+      "decision": "Keep",
+      "cost": 35,
+      "placeholder": false,
+      "paid": false,
+      "link": "chase",
+      "conf": "",
+      "cancelBy": "",
+      "weather": false,
+      "intensity": "Low",
+      "routeFit": "High",
+      "notes": "30 min from Knik helicopter base for Tuesday morning. "
+    },
+    {
+      "id": "lg-0811",
+      "name": "Seward Municipal Campgrounds - night 1",
+      "date": "2026-08-11",
+      "start": "",
+      "end": "",
+      "location": "Seward",
+      "area": "Kenai Peninsula",
+      "category": "Lodging",
+      "budgetCat": "Lodging",
+      "status": "Need to Book",
+      "priority": "Must Do",
+      "decision": "Keep",
+      "cost": 25,
+      "placeholder": false,
+      "paid": false,
+      "link": "https://www.campspot.com/park/seward-municipal-campgrounds?gad_source=1&gad_campaignid=23699680508&gbraid=0AAAAACgvzQFRUZ94MUVyE7rF5hOVfaYCw&gclid=Cj0KCQjwsMLSBhD9ARIsAIpUTDpVCgRi8kjKqKTo88QrlNIq9tOW-dUxORXQj9abqaKcFo98qY5QVOsaAty5EALw_wcB&location=Seward,%20AK&latitude=60.106729&longitude=-149.434364&adults=0&children=0&pets=0&maxPrice=65",
+      "conf": "",
+      "cancelBy": "",
+      "weather": false,
+      "intensity": "Low",
+      "routeFit": "High",
+      "notes": "22 min from Harding Icefield Trail"
+    },
+    {
+      "id": "lg-0812",
+      "name": "Seward Municipal Campgrounds - night 2",
+      "date": "2026-08-12",
+      "start": "",
+      "end": "",
+      "location": "Seward",
+      "area": "Kenai Peninsula",
+      "category": "Lodging",
+      "budgetCat": "Lodging",
+      "status": "Need to Book",
+      "priority": "Must Do",
+      "decision": "Keep",
+      "cost": 25,
+      "placeholder": false,
+      "paid": false,
+      "link": "https://www.campspot.com/park/seward-municipal-campgrounds?gad_source=1&gad_campaignid=23699680508&gbraid=0AAAAACgvzQFRUZ94MUVyE7rF5hOVfaYCw&gclid=Cj0KCQjwsMLSBhD9ARIsAIpUTDpVCgRi8kjKqKTo88QrlNIq9tOW-dUxORXQj9abqaKcFo98qY5QVOsaAty5EALw_wcB&location=Seward,%20AK&latitude=60.106729&longitude=-149.434364&adults=0&children=0&pets=0&maxPrice=65",
+      "conf": "",
+      "cancelBy": "",
+      "weather": false,
+      "intensity": "Low",
+      "routeFit": "High",
+      "notes": "4 min from Boat Tour"
+    },
+    {
+      "id": "lg-0813",
+      "name": "Campsite in Homer, Alaska",
+      "date": "2026-08-13",
+      "start": "",
+      "end": "",
+      "location": "Homer",
+      "area": "Kenai Peninsula",
+      "category": "Lodging",
+      "budgetCat": "Lodging",
+      "status": "Need to Book",
+      "priority": "Must Do",
+      "decision": "Keep",
+      "cost": 51,
+      "placeholder": false,
+      "paid": false,
+      "link": "https://www.airbnb.com/rooms/29164628?check_in=2026-08-13&check_out=2026-08-15&location=Homer%2C%20AK&search_mode=regular_search&source_impression_id=p3_1783720867_P3ifPP5TRUlhb9s4&previous_page_section_name=1001&federated_search_id=471edddb-5f12-449a-adf4-ffeeed72b2f2&guests=2&adults=2",
+      "conf": "",
+      "cancelBy": "",
+      "weather": false,
+      "intensity": "Low",
+      "routeFit": "High",
+      "notes": "further: \nhttps://www.campspot.com/kasilof-dock/site/24867?location=Homer,%20Alaska&latitude=59.644527&longitude=-151.546981&checkin=2026-07-13&checkout=2026-07-15&adults=2&children=0&pets=0&campsiteCategory=Tent%20Sites"
+    },
+    {
+      "id": "lg-0814",
+      "name": "Campsite in Homer, Alaska",
+      "date": "2026-08-14",
+      "start": "",
+      "end": "",
+      "location": "Homer (or partway back)",
+      "area": "Kenai Peninsula",
+      "category": "Lodging",
+      "budgetCat": "Lodging",
+      "status": "Need to Book",
+      "priority": "Must Do",
+      "decision": "Keep",
+      "cost": 51,
+      "placeholder": false,
+      "paid": false,
+      "link": "https://www.airbnb.com/rooms/29164628?check_in=2026-08-13&check_out=2026-08-15&location=Homer%2C%20AK&search_mode=regular_search&source_impression_id=p3_1783720867_P3ifPP5TRUlhb9s4&previous_page_section_name=1001&federated_search_id=471edddb-5f12-449a-adf4-ffeeed72b2f2&guests=2&adults=2",
+      "conf": "",
+      "cancelBy": "",
+      "weather": false,
+      "intensity": "Low",
+      "routeFit": "Medium",
+      "notes": "Staying partway back (Soldotna/Cooper Landing) shortens Saturday's drive. Placeholder rate."
+    },
+    {
+      "id": "lg-0815",
+      "name": "Airport-area hotel — Anchorage (pre-flight)",
+      "date": "2026-08-15",
+      "start": "",
+      "end": "",
+      "location": "Near ANC airport",
+      "area": "Anchorage",
+      "category": "Lodging",
+      "budgetCat": "Lodging",
+      "status": "Need to Book",
+      "priority": "Must Do",
+      "decision": "Keep",
+      "cost": 180,
+      "placeholder": true,
+      "paid": false,
+      "link": "",
+      "conf": "",
+      "cancelBy": "",
+      "weather": false,
+      "intensity": "Low",
+      "routeFit": "High",
+      "board": {
+        "duration": "1 night",
+        "competes": "—",
+        "reason": "6:15 AM flight makes this non-negotiable"
+      },
+      "notes": "24-hr shuttle or ultra-close walk. Pack and confirm flight tonight."
+    },
+    {
+      "id": "adm-shop",
+      "name": "Groceries, snacks, fuel canisters, bear spray, last-minute gear",
+      "date": "2026-08-10",
+      "start": "08:00",
+      "end": "09:30",
+      "location": "Anchorage (REI / Fred Meyer)",
+      "area": "Anchorage",
+      "category": "Admin",
+      "budgetCat": "Gear",
+      "status": "Planned",
+      "priority": "Must Do",
+      "decision": "Keep",
+      "cost": 150,
+      "paid": false,
+      "link": "",
+      "conf": "",
+      "cancelBy": "",
+      "weather": false,
+      "intensity": "Low",
+      "routeFit": "High",
+      "notes": "Bear spray can't fly home — buy here (~$45). Includes trail snacks for Reed Lakes + Harding."
+    },
+    {
+      "id": "dr-hatcher",
+      "name": "Drive Anchorage → Hatcher Pass",
+      "date": "2026-08-10",
+      "start": "09:30",
+      "end": "11:00",
+      "location": "Glenn Hwy → Fishhook Rd",
+      "area": "Mat-Su Valley",
+      "category": "Drive",
+      "budgetCat": "Gas",
+      "status": "Planned",
+      "priority": "Must Do",
+      "decision": "Keep",
+      "cost": 0,
+      "paid": false,
+      "link": "",
+      "conf": "",
+      "cancelBy": "",
+      "weather": false,
+      "intensity": "Low",
+      "routeFit": "High",
+      "notes": "~65 mi, 1.5 hr. Last mile to Reed Lakes trailhead is rough gravel — AWD helps."
+    },
+    {
+      "id": "hk-reed",
+      "name": "Reed Lakes hike — Hatcher Pass",
+      "date": "2026-08-10",
+      "start": "11:00",
+      "end": "17:00",
+      "location": "Reed Lakes Trailhead, Archangel Rd",
+      "area": "Mat-Su Valley",
+      "category": "Hike",
+      "budgetCat": "Parking/fees",
+      "status": "Planned",
+      "priority": "Must Do",
+      "decision": "Keep",
+      "cost": 10,
+      "paid": false,
+      "link": "",
+      "conf": "",
+      "cancelBy": "",
+      "weather": true,
+      "intensity": "High",
+      "routeFit": "High",
+      "board": {
+        "duration": "~6 hr, 9 mi RT",
+        "competes": "Gold Mint Trail (easier alt)",
+        "reason": "Signature alpine day — boulder field + turquoise lakes"
+      },
+      "notes": "9 mi RT, ~2,300 ft gain, boulder scramble mid-route. Start by 11 AM latest; dinner simple in Palmer. $5/car parking."
+    },
+    {
+      "id": "tr-knik",
+      "name": "Knik Glacier helicopter landing",
+      "date": "2026-08-11",
+      "start": "09:00",
+      "end": "11:00",
+      "location": "Knik River Lodge helipad",
+      "area": "Mat-Su Valley",
+      "category": "Tour",
+      "budgetCat": "Tours",
+      "status": "Need to Book",
+      "priority": "Must Do",
+      "decision": "Keep",
+      "cost": 1044,
+      "paid": false,
+      "link": "https://www.alaskahelicoptertours.com/glacier-tours/?gad_source=1&gad_campaignid=22259133825&gbraid=0AAAAACnHdzuyMuOUO03QcUSKXF3IHZpEJ&gclid=Cj0KCQjwsMLSBhD9ARIsAIpUTDp4KwmipvDfRQ0CSqX491BMbC0GOxEraJwMlArmrQQogl0qigfUklsaAp64EALw_wcB",
+      "conf": "",
+      "cancelBy": "",
+      "weather": true,
+      "intensity": "Low",
+      "routeFit": "High",
+      "board": {
+        "duration": "~2 hr (30 min on ice)",
+        "competes": "Knik kayak tour · Matanuska walk",
+        "reason": "Trip centerpiece — glacier landing beats all alternatives"
+      },
+      "notes": "≈$650/pp × 2. Weather-dependent: if canceled, fall back to Matanuska Glacier walk (backup card). Book AM slot so AWCC can flex.",
+      "placeholder": false
+    },
+    {
+      "id": "fd-knik",
+      "name": "Lunch after helicopter (Palmer)",
+      "date": "2026-08-11",
+      "start": "11:30",
+      "end": "12:30",
+      "location": "Palmer",
+      "area": "Mat-Su Valley",
+      "category": "Food",
+      "budgetCat": "Food",
+      "status": "Planned",
+      "priority": "Optional",
+      "decision": "Keep",
+      "cost": 0,
+      "paid": false,
+      "link": "",
+      "conf": "",
+      "cancelBy": "",
+      "weather": false,
+      "intensity": "Low",
+      "routeFit": "High",
+      "notes": "Covered by daily food budget line."
+    },
+    {
+      "id": "wl-awcc",
+      "name": "Alaska Wildlife Conservation Center",
+      "date": "2026-08-11",
+      "start": "14:30",
+      "end": "16:00",
+      "location": "Portage (Mile 79 Seward Hwy)",
+      "area": "Turnagain Arm",
+      "category": "Wildlife",
+      "budgetCat": "Tours",
+      "status": "Planned",
+      "priority": "Must Do",
+      "decision": "Keep",
+      "cost": 40,
+      "paid": false,
+      "link": "",
+      "conf": "",
+      "cancelBy": "",
+      "weather": false,
+      "intensity": "Low",
+      "routeFit": "High",
+      "board": {
+        "duration": "1–1.5 hr",
+        "competes": "—",
+        "reason": "On the way south, cheap, guaranteed wildlife"
+      },
+      "notes": "≈$20/pp. FLEXIBLE anchor — slides later if the helicopter is weather-delayed. It's literally on the route to Seward."
+    },
+    {
+      "id": "dr-seward",
+      "name": "Drive AWCC → Seward",
+      "date": "2026-08-11",
+      "start": "16:00",
+      "end": "17:45",
+      "location": "Seward Hwy",
+      "area": "Kenai Peninsula",
+      "category": "Drive",
+      "budgetCat": "Gas",
+      "status": "Planned",
+      "priority": "Must Do",
+      "decision": "Keep",
+      "cost": 0,
+      "paid": false,
+      "link": "",
+      "conf": "",
+      "cancelBy": "",
+      "weather": false,
+      "intensity": "Low",
+      "routeFit": "High",
+      "notes": "~90 mi from Portage, 1.75 hr. One of the most scenic drives of the trip."
+    },
+    {
+      "id": "hk-harding",
+      "name": "Harding Icefield Trail (full)",
+      "date": "2026-08-12",
+      "start": "07:30",
+      "end": "16:30",
+      "location": "Exit Glacier area, Kenai Fjords NP",
+      "area": "Seward",
+      "category": "Hike",
+      "budgetCat": "Parking/fees",
+      "status": "Planned",
+      "priority": "Must Do",
+      "decision": "Keep",
+      "cost": 0,
+      "paid": false,
+      "link": "",
+      "conf": "",
+      "cancelBy": "",
+      "weather": true,
+      "intensity": "High",
+      "routeFit": "High",
+      "board": {
+        "duration": "8–9 hr, 8.2 mi RT",
+        "competes": "Exit Glacier overlook only (easy alt)",
+        "reason": "Biggest payoff hike of the trip"
+      },
+      "notes": "8.2 mi RT, ~3,500 ft gain. Biggest physical day — start by 7:30, pack lunch, keep the evening easy. Free entry/parking."
+    },
+    {
+      "id": "tr-fjords",
+      "name": "Kenai Fjords NP boat tour (6 hr)",
+      "date": "2026-08-13",
+      "start": "11:30",
+      "end": "17:30",
+      "location": "Seward small boat harbor",
+      "area": "Seward",
+      "category": "Tour",
+      "budgetCat": "Tours",
+      "status": "Need to Book",
+      "priority": "Must Do",
+      "decision": "Keep",
+      "cost": 530.46,
+      "paid": false,
+      "link": "https://www.viator.com/tours/Seward/Kenai-Fjords-National-Park-and-Chiswell-Islands-Cruise/d4368-7166P2",
+      "conf": "",
+      "cancelBy": "",
+      "weather": true,
+      "intensity": "Low",
+      "routeFit": "High",
+      "board": {
+        "duration": "6 hr",
+        "competes": "Half-day resurrection bay cruise",
+        "reason": "Tidewater glaciers + whales — the 6-hr version reaches the good stuff"
+      },
+      "notes": "≈$200/pp × 2. Take motion-sickness meds 1 hr before. Recovery day after Harding.",
+      "placeholder": false
+    },
+    {
+      "id": "dr-homer",
+      "name": "Drive Seward → Homer",
+      "date": "2026-08-13",
+      "start": "15:00",
+      "end": "18:30",
+      "location": "Sterling Hwy",
+      "area": "Kenai Peninsula",
+      "category": "Drive",
+      "budgetCat": "Gas",
+      "status": "Planned",
+      "priority": "Must Do",
+      "decision": "Keep",
+      "cost": 0,
+      "paid": false,
+      "link": "",
+      "conf": "",
+      "cancelBy": "",
+      "weather": false,
+      "intensity": "Low",
+      "routeFit": "High",
+      "notes": "~170 mi, 3.5 hr. Scenic, low effort — good after the boat."
+    },
+    {
+      "id": "fx-homer",
+      "name": "Homer day — Spit, harbor, beach, seafood, coffee",
+      "date": "2026-08-14",
+      "start": "09:00",
+      "end": "18:00",
+      "location": "Homer Spit & town",
+      "area": "Homer",
+      "category": "Flexible",
+      "budgetCat": "Food",
+      "status": "Planned",
+      "priority": "Must Do",
+      "decision": "Keep",
+      "cost": 0,
+      "paid": false,
+      "link": "",
+      "conf": "",
+      "cancelBy": "",
+      "weather": false,
+      "intensity": "Low",
+      "routeFit": "High",
+      "board": {
+        "duration": "Full day",
+        "competes": "Leaving a day earlier for Anchorage",
+        "reason": "The exhale day the trip needs"
+      },
+      "notes": "Unstructured on purpose. Eagle-watching on the Spit, Two Sisters Bakery, Salty Dawg."
+    },
+    {
+      "id": "dr-anc",
+      "name": "Drive Homer → Anchorage",
+      "date": "2026-08-15",
+      "start": "10:00",
+      "end": "14:30",
+      "location": "Sterling + Seward Hwy",
+      "area": "Kenai Peninsula",
+      "category": "Drive",
+      "budgetCat": "Gas",
+      "status": "Planned",
+      "priority": "Must Do",
+      "decision": "Keep",
+      "cost": 0,
+      "paid": false,
+      "link": "",
+      "conf": "",
+      "cancelBy": "",
+      "weather": false,
+      "intensity": "Low",
+      "routeFit": "High",
+      "notes": "~220 mi, 4.5 hr with stops. Leave slack — Turnagain Arm traffic on summer Saturdays."
+    },
+    {
+      "id": "adm-return",
+      "name": "Refuel + return rental car (or prep for 4 AM return)",
+      "date": "2026-08-15",
+      "start": "15:00",
+      "end": "16:00",
+      "location": "ANC airport",
+      "area": "Anchorage",
+      "category": "Admin",
+      "budgetCat": "Rental car",
+      "status": "Planned",
+      "priority": "Must Do",
+      "decision": "Keep",
+      "cost": 0,
+      "paid": false,
+      "link": "",
+      "conf": "",
+      "cancelBy": "",
+      "weather": false,
+      "intensity": "Low",
+      "routeFit": "High",
+      "notes": "Returning tonight = simpler 4 AM. If keeping the car, confirm the return lot is open pre-5 AM."
+    },
+    {
+      "id": "adm-pack",
+      "name": "Pack, organize gear, confirm flight",
+      "date": "2026-08-15",
+      "start": "19:00",
+      "end": "21:00",
+      "location": "Airport hotel",
+      "area": "Anchorage",
+      "category": "Admin",
+      "budgetCat": "Parking/fees",
+      "status": "Planned",
+      "priority": "Must Do",
+      "decision": "Keep",
+      "cost": 0,
+      "paid": false,
+      "link": "",
+      "conf": "",
+      "cancelBy": "",
+      "weather": false,
+      "intensity": "Low",
+      "routeFit": "High",
+      "notes": "Check in online, set two alarms, bear spray does NOT fly — gift it or leave with hotel."
+    },
+    {
+      "id": "bg-food",
+      "name": "Food & coffee (trip total)",
+      "date": null,
+      "start": "",
+      "end": "",
+      "location": "—",
+      "area": "Trip-wide",
+      "category": "Food",
+      "budgetCat": "Food",
+      "status": "Planned",
+      "priority": "Must Do",
+      "decision": "Keep",
+      "cost": 840,
+      "placeholder": true,
+      "paid": false,
+      "link": "",
+      "conf": "",
+      "cancelBy": "",
+      "weather": false,
+      "intensity": "Low",
+      "routeFit": "High",
+      "notes": "≈$60/pp/day × 7 days × 2. Groceries Monday keeps this down."
+    },
+    {
+      "id": "bg-gas",
+      "name": "Gas (≈700 mi total)",
+      "date": null,
+      "start": "",
+      "end": "",
+      "location": "—",
+      "area": "Trip-wide",
+      "category": "Drive",
+      "budgetCat": "Gas",
+      "status": "Planned",
+      "priority": "Must Do",
+      "decision": "Keep",
+      "cost": 130,
+      "placeholder": true,
+      "paid": false,
+      "link": "",
+      "conf": "",
+      "cancelBy": "",
+      "weather": false,
+      "intensity": "Low",
+      "routeFit": "High",
+      "notes": "Compact SUV, AK summer prices."
+    },
+    {
+      "id": "op-fish",
+      "name": "Homer 3/4 day halibut fishing",
+      "date": "2026-08-14",
+      "start": "6:30 am",
+      "end": "12:30 pm",
+      "location": "Homer harbor",
+      "area": "Homer",
+      "category": "Tour",
+      "budgetCat": "Optional",
+      "status": "Canceled",
+      "priority": "Strong Maybe",
+      "decision": "Pass",
+      "cost": 839.36,
+      "paid": false,
+      "link": "https://homerhalibuthunters.com/2026-availability/",
+      "conf": "",
+      "cancelBy": "",
+      "weather": true,
+      "intensity": "Medium",
+      "routeFit": "High",
+      "board": {
+        "duration": "5–6 hr",
+        "competes": "Relaxed Homer morning",
+        "reason": "Classic Homer, but eats half the only slow day (+$600 for 2)"
+      },
+      "notes": "≈$300/pp half-day. Fish processing/shipping is extra. Decide by early August.",
+      "placeholder": false
+    },
+    {
+      "id": "op-sled",
+      "name": "Dog sledding (summer cart ride)",
+      "date": null,
+      "start": "",
+      "end": "",
+      "location": "Seward or Girdwood",
+      "area": "Kenai Peninsula",
+      "category": "Tour",
+      "budgetCat": "Optional",
+      "status": "Canceled",
+      "priority": "Optional",
+      "decision": "Pass",
+      "cost": 180,
+      "paid": false,
+      "link": "",
+      "conf": "",
+      "cancelBy": "",
+      "weather": false,
+      "intensity": "Low",
+      "routeFit": "Medium",
+      "board": {
+        "duration": "1.5 hr",
+        "competes": "Free time in Seward",
+        "reason": "Only if it slots in without moving anything (glacier heli-mush is ~$600/pp — skip that version)"
+      },
+      "notes": "Seward-area kennels fit the route best (Aug 12 evening or Aug 13 pre-boat is too tight — realistically Aug 11 evening)."
+    },
+    {
+      "id": "bk-matanuska",
+      "name": "Matanuska Glacier guided walk (helicopter backup)",
+      "date": "2026-08-11",
+      "start": "09:00",
+      "end": "13:00",
+      "location": "Glacier Park, Glenn Hwy",
+      "area": "Mat-Su Valley",
+      "category": "Tour",
+      "budgetCat": "Optional",
+      "status": "Backup",
+      "priority": "Backup",
+      "decision": "Backup",
+      "cost": 260,
+      "paid": false,
+      "link": "",
+      "conf": "",
+      "cancelBy": "",
+      "weather": false,
+      "intensity": "Medium",
+      "routeFit": "Medium",
+      "board": {
+        "duration": "3–4 hr + 2 hr extra driving",
+        "competes": "Knik helicopter",
+        "reason": "Only fires if weather cancels the helicopter"
+      },
+      "notes": "≈$130/pp guided access. 1.5 hr NE of Palmer — doable same-day pivot, pushes AWCC to a quick evening stop."
+    },
+    {
+      "id": "bk-anc-tour",
+      "name": "Anchorage food / city tour (bad-weather backup)",
+      "date": null,
+      "start": "",
+      "end": "",
+      "location": "Downtown Anchorage",
+      "area": "Anchorage",
+      "category": "Food",
+      "budgetCat": "Optional",
+      "status": "Backup",
+      "priority": "Backup",
+      "decision": "Backup",
+      "cost": 190,
+      "paid": false,
+      "link": "",
+      "conf": "",
+      "cancelBy": "",
+      "weather": false,
+      "intensity": "Low",
+      "routeFit": "Low",
+      "board": {
+        "duration": "3 hr",
+        "competes": "Any rained-out hike day",
+        "reason": "Pure contingency — only if a full day washes out"
+      },
+      "notes": "≈$95/pp. Don't pre-book."
+    },
+    {
+      "id": "ps-denali",
+      "name": "Denali backpacking",
+      "date": null,
+      "start": "",
+      "end": "",
+      "location": "Denali NP",
+      "area": "Interior",
+      "category": "Hike",
+      "budgetCat": "Optional",
+      "status": "Canceled",
+      "priority": "Backup",
+      "decision": "Pass",
+      "cost": 0,
+      "paid": false,
+      "link": "",
+      "conf": "",
+      "cancelBy": "",
+      "weather": true,
+      "intensity": "High",
+      "routeFit": "Low",
+      "board": {
+        "duration": "2–3 days",
+        "competes": "Entire Kenai half of the trip",
+        "reason": "ANC round-trip flights make the 240-mi detour + permits unworkable in 7 days"
+      },
+      "notes": "Cut when flights changed to Anchorage round trip. Save for a dedicated trip."
+    },
+    {
+      "id": "ps-sup",
+      "name": "Glacier paddleboarding",
+      "date": null,
+      "start": "",
+      "end": "",
+      "location": "Valdez / Whittier area",
+      "area": "Prince William Sound",
+      "category": "Tour",
+      "budgetCat": "Optional",
+      "status": "Canceled",
+      "priority": "Backup",
+      "decision": "Pass",
+      "cost": 800,
+      "paid": false,
+      "link": "",
+      "conf": "",
+      "cancelBy": "",
+      "weather": true,
+      "intensity": "Medium",
+      "routeFit": "Low",
+      "board": {
+        "duration": "Half day + big detour",
+        "competes": "Budget + schedule everywhere",
+        "reason": "≈$400/pp, crowds the schedule, off-route"
+      },
+      "notes": "Cool, but wrong trip."
+    },
+    {
+      "id": "ps-knik-kayak",
+      "name": "Knik Glacier kayak tour",
+      "date": null,
+      "start": "",
+      "end": "",
+      "location": "Knik River",
+      "area": "Mat-Su Valley",
+      "category": "Tour",
+      "budgetCat": "Optional",
+      "status": "Canceled",
+      "priority": "Backup",
+      "decision": "Pass",
+      "cost": 500,
+      "paid": false,
+      "link": "",
+      "conf": "",
+      "cancelBy": "",
+      "weather": true,
+      "intensity": "Medium",
+      "routeFit": "High",
+      "board": {
+        "duration": "5 hr",
+        "competes": "Knik helicopter landing",
+        "reason": "Redundant with the helicopter — same glacier, more time, less wow"
+      },
+      "notes": "Revisit only if we drop the helicopter entirely."
+    },
+    {
+      "id": "ps-anc-fish",
+      "name": "Anchorage full-day salmon fishing",
+      "date": null,
+      "start": "",
+      "end": "",
+      "location": "Ship Creek / Kenai R.",
+      "area": "Anchorage",
+      "category": "Tour",
+      "budgetCat": "Optional",
+      "status": "Canceled",
+      "priority": "Backup",
+      "decision": "Pass",
+      "cost": 700,
+      "paid": false,
+      "link": "",
+      "conf": "",
+      "cancelBy": "",
+      "weather": true,
+      "intensity": "Medium",
+      "routeFit": "Low",
+      "board": {
+        "duration": "Full day",
+        "competes": "Homer day",
+        "reason": "Only makes sense if Homer gets cut — it isn't"
+      },
+      "notes": ""
+    },
+    {
+      "id": "ps-wild-tour",
+      "name": "Wildlife/wilderness bus tour from Anchorage",
+      "date": null,
+      "start": "",
+      "end": "",
+      "location": "Anchorage departures",
+      "area": "Anchorage",
+      "category": "Wildlife",
+      "budgetCat": "Optional",
+      "status": "Canceled",
+      "priority": "Backup",
+      "decision": "Pass",
+      "cost": 400,
+      "paid": false,
+      "link": "",
+      "conf": "",
+      "cancelBy": "",
+      "weather": false,
+      "intensity": "Low",
+      "routeFit": "Low",
+      "board": {
+        "duration": "Full day",
+        "competes": "Rental car freedom",
+        "reason": "We have a car — we ARE the wildlife tour"
+      },
+      "notes": ""
+    },
+    {
+      "id": "ps-kayak-extra",
+      "name": "Extra full-day kayak tours",
+      "date": null,
+      "start": "",
+      "end": "",
+      "location": "Seward / Whittier",
+      "area": "Kenai Peninsula",
+      "category": "Tour",
+      "budgetCat": "Optional",
+      "status": "Canceled",
+      "priority": "Backup",
+      "decision": "Pass",
+      "cost": 600,
+      "paid": false,
+      "link": "",
+      "conf": "",
+      "cancelBy": "",
+      "weather": true,
+      "intensity": "High",
+      "routeFit": "Medium",
+      "board": {
+        "duration": "Full day each",
+        "competes": "Harding Icefield or Kenai Fjords",
+        "reason": "Would force cutting a must-do anchor"
+      },
+      "notes": ""
+    }
+  ],
+  "packing": [
+    {
+      "cat": "Hiking",
+      "items": [
+        {
+          "text": "Hiking shoes or boots (broken in)",
+          "done": false
+        },
+        {
+          "text": "Daypack (20–30L)",
+          "done": false
+        },
+        {
+          "text": "Water bottles / hydration bladder",
+          "done": false
+        },
+        {
+          "text": "Extra socks (wool)",
+          "done": false
+        },
+        {
+          "text": "Snacks for Reed Lakes",
+          "done": false
+        },
+        {
+          "text": "Snacks + packed lunch for Harding Icefield",
+          "done": false
+        },
+        {
+          "text": "Trekking poles (Harding descent)",
+          "done": false
+        }
+      ]
+    },
+    {
+      "cat": "Rain",
+      "items": [
+        {
+          "text": "Rain jacket (real shell, not resistant)",
+          "done": false
+        },
+        {
+          "text": "Waterproof / water-resistant hiking pants",
+          "done": false
+        },
+        {
+          "text": "Pack rain cover or liner bag",
+          "done": false
+        }
+      ]
+    },
+    {
+      "cat": "Cold weather",
+      "items": [
+        {
+          "text": "Fleece or warm mid-layer",
+          "done": false
+        },
+        {
+          "text": "Beanie",
+          "done": false
+        },
+        {
+          "text": "Gloves",
+          "done": false
+        },
+        {
+          "text": "Warm layer for boat deck",
+          "done": false
+        }
+      ]
+    },
+    {
+      "cat": "Boat tour",
+      "items": [
+        {
+          "text": "Motion sickness medicine (take 1 hr before)",
+          "done": false
+        },
+        {
+          "text": "Binoculars",
+          "done": false
+        },
+        {
+          "text": "Windproof outer layer",
+          "done": false
+        }
+      ]
+    },
+    {
+      "cat": "Car",
+      "items": [
+        {
+          "text": "Offline maps downloaded (Google Maps AK areas)",
+          "done": false
+        },
+        {
+          "text": "Phone mount",
+          "done": false
+        },
+        {
+          "text": "Car snacks + water",
+          "done": false
+        },
+        {
+          "text": "Printed rental car info",
+          "done": false
+        }
+      ]
+    },
+    {
+      "cat": "Toiletries",
+      "items": [
+        {
+          "text": "Sunscreen",
+          "done": false
+        },
+        {
+          "text": "Lip balm SPF",
+          "done": false
+        },
+        {
+          "text": "Bug spray",
+          "done": false
+        },
+        {
+          "text": "First-aid basics + blister kit",
+          "done": false
+        }
+      ]
+    },
+    {
+      "cat": "Electronics",
+      "items": [
+        {
+          "text": "Portable charger (x2)",
+          "done": false
+        },
+        {
+          "text": "Charging cables",
+          "done": false
+        },
+        {
+          "text": "Camera + free phone storage",
+          "done": false
+        },
+        {
+          "text": "Headlamp (late arrival)",
+          "done": false
+        }
+      ]
+    },
+    {
+      "cat": "Documents",
+      "items": [
+        {
+          "text": "Confirmation documents (offline copies)",
+          "done": false
+        },
+        {
+          "text": "Flight info",
+          "done": false
+        },
+        {
+          "text": "ID / licenses (both drivers)",
+          "done": false
+        },
+        {
+          "text": "Insurance cards",
+          "done": false
+        }
+      ]
+    },
+    {
+      "cat": "Food/snacks",
+      "items": [
+        {
+          "text": "Trail mix / bars for both big hikes",
+          "done": false
+        },
+        {
+          "text": "Electrolyte packets",
+          "done": false
+        },
+        {
+          "text": "Buy in Anchorage: bear spray (can't fly home)",
+          "done": false
+        },
+        {
+          "text": "Stove fuel if cooking (buy local)",
+          "done": false
+        }
+      ]
+    }
+  ]
+}
