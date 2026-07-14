@@ -195,7 +195,7 @@ const DEFAULT_ITEMS = [
     notes: "Check in online, set two alarms, bear spray does NOT fly — gift it or leave with hotel." },
   { id: "bg-food", name: "Food & coffee (trip total)", date: null, start: "", end: "",
     location: "—", area: "Trip-wide", category: "Food", budgetCat: "Food",
-    status: "Planned", priority: "Must Do", decision: "Keep", cost: 840, placeholder: true, paid: false,
+    status: "Planned", priority: "Must Do", decision: "Keep", cost: 480, placeholder: true, paid: false,
     link: "", conf: "", cancelBy: "", weather: false, intensity: "Low", routeFit: "High",
     notes: "≈$60/pp/day × 7 days × 2. Groceries Monday keeps this down." },
   { id: "bg-gas", name: "Gas (≈700 mi total)", date: null, start: "", end: "",
